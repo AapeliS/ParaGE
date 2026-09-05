@@ -3,7 +3,7 @@ ParaGE
 
 DESIGN GOALS!
 
-v.0.9
+v.0.5a
 Parametric Game Engine
 
 The aim is to make a Game Engine which is Parametric.
@@ -20,5 +20,17 @@ I will keep updating it now that I have a computer strong enough for me to use a
 
 I will review all code before I upload it.
 
-v.1.1
-Of course I aim to make this program forward and back compliant with FreeCAD (have you ever heard of Planck meters? FreeCAD supports that.).
+v.0.7a
+Of course I aim to make this program forward and back compliant with FreeCAD (have you ever heard of *Planck* meters? FreeCAD supports that.).
+
+***parage
+noun
+ˈparij,  pəˈräzh
+plural-s
+: equality of condition, blood, or dignity
+specifically : equality between persons (as brothers) one of whom holds a part of a fee of the other, does homage to the lord paramount, and is responsible for the whole service of the fee***
+
+CHANGE LOG:
+
+Version numbers changed back a bit so that no one will mistake this app as compatible with FreeCAD 1.1, as of yet.
+Updated README text.
