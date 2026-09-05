@@ -3,6 +3,7 @@ ParaGE
 
 DESIGN GOALS!
 
+v.0.9
 Parametric Game Engine
 
 The aim is to make a Game Engine which is Parametric.
@@ -18,3 +19,6 @@ This project is not in it's infancy, but the code as is, can not be called ready
 I will keep updating it now that I have a computer strong enough for me to use a local LLM.
 
 I will review all code before I upload it.
+
+v.1.1
+Of course I aim to make this program forward and back compliant with FreeCAD (have you ever heard of Planck meters? FreeCAD supports that.).
